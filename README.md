@@ -1,3 +1,3 @@
-# HTML Básico de uma página 
+#  <p align='center'> HTML Básico de uma página </p>
 ------------------------------------------------------------
-### Simulação de um salão de beleza com os primeiros passos de HTML
+### <p align='center'> Simulação de um salão de beleza com os primeiros passos de HTML </p>
